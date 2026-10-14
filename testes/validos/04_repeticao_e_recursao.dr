@@ -1,0 +1,41 @@
+king RESULTADO;
+
+king calcularFatorial(king n)
+very
+    darker (n <= 1)
+        bigshot 1;
+    interesting
+    bigshot n * calcularFatorial(n - 1);
+interesting
+
+king somarIntervalo(king inicio, king fim)
+very
+    king total = 0;
+    king i = inicio;
+    iftale (i <= fim)
+        darker (i % 2 == 0)
+            total = total + i;
+        interesting
+        i = i + 1;
+    interesting
+    bigshot total;
+interesting
+
+knight mostrarTabela(knight)
+very
+    king linha = 1, coluna;
+    iftale (linha <= 3)
+        coluna = 1;
+        iftale (coluna <= 3)
+            spamton(linha * coluna);
+            coluna = coluna + 1;
+        interesting
+        linha = linha + 1;
+    interesting
+interesting
+
+very
+    RESULTADO = calcularFatorial(5) + somarIntervalo(1, 10);
+    mostrarTabela();
+    spamton("Resultado: ", RESULTADO);
+interesting

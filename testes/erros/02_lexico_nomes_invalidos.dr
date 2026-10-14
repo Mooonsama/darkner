@@ -1,0 +1,12 @@
+// Viola as convencoes: global com minuscula, funcao sem o formato verboTermo, local com maiuscula e com _ inicial
+king Soma_Total;
+
+king calcular_Dobro(king a)
+very
+    bigshot a;
+interesting
+
+very
+    king Valor;
+    king _temp;
+interesting

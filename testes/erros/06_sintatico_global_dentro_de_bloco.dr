@@ -1,0 +1,5 @@
+// Declarar variavel GLOBAL dentro de funcao/main e erro (so nomes minusculos)
+very
+    king TOTAL;
+    TOTAL = 5;
+interesting

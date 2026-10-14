@@ -1,0 +1,4 @@
+// Usar a sintaxe do C em vez da do Darkner
+int main() {
+    if (x > 1) { x = 2; }
+}

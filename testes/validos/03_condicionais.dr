@@ -1,0 +1,26 @@
+king NOTA = 75;
+
+knight exibirConceito(king nota)
+very
+    darker (nota >= 90)
+        spamton("A");
+    yet
+        darker (nota >= 70 && nota < 90)
+            spamton("B");
+        yet
+            darker (nota >= 50 || !(nota < 0))
+                spamton("C");
+            yet
+                spamton("D");
+            interesting
+        interesting
+    interesting
+    bigshot;
+interesting
+
+very
+    exibirConceito(NOTA);
+    darker (NOTA == 75) interesting
+    darker (NOTA != 0)
+    interesting
+interesting

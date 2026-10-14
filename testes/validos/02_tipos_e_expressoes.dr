@@ -1,0 +1,18 @@
+/* Todos os tipos e precedencia de operadores */
+king CONTADOR = 0, LIMITE = 100;
+queen   TAXA = 1.5;
+flowery PI = 3.14159;
+tenna   LETRA = 'K';
+
+very
+    king a = 7, b = 3, c;
+    queen media;
+    tenna simbolo = '\n';
+
+    c = a + b * 2 - (a - b) / 2 % 3;
+    c = -a + -(b * 2);
+    media = (a + b) / 2.0 * TAXA;
+    CONTADOR = CONTADOR + 1;
+
+    spamton("c vale ", c, " e a media vale ", media);
+interesting

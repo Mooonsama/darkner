@@ -1,0 +1,5 @@
+very
+    king x = 0;
+    iftale (x < 10)
+        x = x + 1;
+interesting

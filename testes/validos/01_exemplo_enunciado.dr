@@ -1,0 +1,27 @@
+// Versao em Darkner do exemplo do enunciado do TP1
+king SOMA;
+
+king calcularSoma(king a, king b)
+very
+    king resultado;
+    resultado = a + b;
+    bigshot resultado;
+interesting
+
+very
+    king x;
+    king y;
+
+    x = 10;
+    y = 20;
+
+    SOMA = calcularSoma(x, y);
+
+    darker (SOMA > 20)
+        x = x + 1;
+    interesting
+
+    iftale (x < SOMA)
+        x = x + 1;
+    interesting
+interesting

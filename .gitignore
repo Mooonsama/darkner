@@ -1,0 +1,13 @@
+# Binário
+darkner
+darkner.exe
+*.o
+
+# Arquivos gerados pelo Flex/Bison (recriados pelo make)
+lex.yy.c
+parser.tab.c
+parser.tab.h
+parser.output
+
+# Notas locais do assistente
+CLAUDE.md
